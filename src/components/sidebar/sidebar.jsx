@@ -8,7 +8,7 @@ function NavBar() {
                 <img src="src\icons\Twitter.png" />
             </div>
             <div>
-            <ul className='menu-list'>
+            <ul>
                 <li>
                     <NavLink to='/home' className='menu'><img src="src\icons\Home-Fill.png"  />Home</NavLink>
                 </li>

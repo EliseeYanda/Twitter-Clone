@@ -1,6 +1,6 @@
 function Messages(){
     return(
-        <h1>welcome</h1>
+        <h1>Welcome Messages</h1>
     )
 }
 

@@ -1,6 +1,6 @@
 function Explore(){
     return(
-        <h1>welcome</h1>
+        <h1>Welcome Explore</h1>
     )
 }
 

@@ -300,6 +300,21 @@ p{
     color: black;
     
 }
+ 
+.tweet-action {
+    transition: transform 0.3s ease;
+  }
+  
+  .tweet-action, img:active {
+    transform: scale(1.2);
+    
+     
+  }
+
+  .tweet-action:hover{
+    color: goldenrod;
+  }
+
   
   
   
